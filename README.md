@@ -1,2 +1,0 @@
-# KickyC
-This my website
